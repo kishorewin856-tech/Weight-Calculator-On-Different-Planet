@@ -24,7 +24,7 @@ Run it with:
 
 [weight_cal.py](weight_cal.py)
 
-###Run the GUI version:
+### Run the GUI version:
 
 Run it with:
 
