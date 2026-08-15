@@ -18,10 +18,21 @@ based on the gravitational difference between the planets.
 
 ## How to Run
 
-Run the terminal version:
+### Terminal Version
 
-python Weight_cal.py
+[weight_cal.py](weight_cal.py)
 
-Run the GUI version:
+Run it with:
 
-python App.py
+```bash
+python weight_cal.py
+
+###Run the GUI version:
+
+[app.py](app.py)
+
+Run it with:
+
+```bash
+
+python app.py
